@@ -49,7 +49,7 @@ CLASSIFICATION CONCLUSION
 - Logistic Regression, Support Vector Machines, K-nearest neighbours and  Decision Tree have the same accuracy 83.3%<br>
 
 For more details- 
-[watch presentation-](https://github.com/khushiyadav2022/capstone-project/commit/418c0e6baa61c0ec401c23a97d33af2f3899b7ff)
+[watch presentation-](https://github.com/khushiyadav2022/capstone-project/blob/418c0e6baa61c0ec401c23a97d33af2f3899b7ff/capstone-assignment.pdf)
 
 
 
