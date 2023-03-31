@@ -5,21 +5,21 @@
 **Task:**
         Task is to predict the first stage of SpaceX falcon 9 rocket will land successfully. For this we have to complete different task like Data collection, web scrapping, data wrangling, EDA with SQL, data visualization,site launching, Dashboard, Classification models. which is given below-
         
-- [x] DATA COLLECTION API- https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-spacex-data-collection-api.ipynb
+- [x] [DATA COLLECTION API](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-spacex-data-collection-api.ipynb)
 
-- [x] WEB SCRAPPING- https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-webscraping.ipynb
+- [x] [WEB SCRAPPING](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-webscraping.ipynb)
 
-- [x] DATA WRANGLING- https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-webscraping.ipynb
+- [x] [DATA WRANGLING](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-webscraping.ipynb)
 
-- [x] EDA with SQL-  https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-eda-sql-coursera_sqllite%20(1).ipynb
+- [x] [EDA with SQL](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-eda-sql-coursera_sqllite%20(1).ipynb)
 
-- [x] DATA VISUALIZATION- https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-eda-sql-coursera_sqllite%20(1).ipynb
+- [x] [DATA VISUALIZATION](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/jupyter-labs-eda-sql-coursera_sqllite%20(1).ipynb)
 
-- [x] SITE LAUNCHING- https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/lab_jupyter_launch_site_location.ipynb
+- [x] [SITE LAUNCHING](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/lab_jupyter_launch_site_location.ipynb)
 
-- [x] DASHBOARD- https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/spacex_dash_app.py
+- [x] [DASHBOARD](https://github.com/khushiyadav2022/capstone-project/blob/b1951e520e8caa1965963ed6931ada1d90a44aa7/spacex_dash_app.py)
 
-- [x] CLASSSIFICATION MODELS- https://github.com/khushiyadav2022/capstone-project/blob/ac7e6e71ab8d900533a0a77d628a479a785524de/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb
+- [x] [CLASSSIFICATION MODELS](https://github.com/khushiyadav2022/capstone-project/blob/ac7e6e71ab8d900533a0a77d628a479a785524de/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
 
 **Conclusion:**<br>
 VISUALIZATION CONCLUSION-
@@ -49,7 +49,7 @@ CLASSIFICATION CONCLUSION
 - Logistic Regression, Support Vector Machines, K-nearest neighbours and  Decision Tree have the same accuracy 83.3%<br>
 
 For more details- 
-[watch presentation-](https://github.com/khushiyadav2022/capstone-project/blob/418c0e6baa61c0ec401c23a97d33af2f3899b7ff/capstone-assignment.pdf)
+[watch presentation](https://github.com/khushiyadav2022/capstone-project/blob/418c0e6baa61c0ec401c23a97d33af2f3899b7ff/capstone-assignment.pdf)
 
 
 
