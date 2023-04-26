@@ -1,4 +1,5 @@
 # First stage of SpaceX falcon 9 rocket will land successfully with Data Science
+![](https://kalingatv.com/wp-content/uploads/2020/04/spacex-Space.jpg)
 **Project:**  
          Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
          
